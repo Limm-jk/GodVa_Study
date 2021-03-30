@@ -2,7 +2,7 @@
 
 ## Member
 
-| [<img src="https://avatars.githubusercontent.com/Jivvon" width="100">](https://github.com/Jivvon)| [<img src="https://avatars.githubusercontent.com/Limm-jk" width="100">](https://github.com/Limm-jk) | [<img src="https://avatars.githubusercontent.com/Jeonjiyee" width="100">](https://github.com/Jeonjiyee) | [<img src="https://avatars.githubusercontent.com/plzprayme" width="100">](https://github.com/plzprayme) |
+| [<img src="https://avatars.githubusercontent.com/Jivvon" width="100">](https://github.com/Jivvon)| [<img src="https://avatars.githubusercontent.com/Limm-jk" width="100">](https://github.com/Limm-jk) | [<img src="https://avatars.githubusercontent.com/jiyeexxi" width="100">](https://github.com/jiyeexxi) | [<img src="https://avatars.githubusercontent.com/plzprayme" width="100">](https://github.com/plzprayme) |
 | :-----------------------------------: | :---------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 | 정지원 | 임준규 | 전지예 | 황성찬 |
 
